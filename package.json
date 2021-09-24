@@ -1,0 +1,26 @@
+{
+  "name": "nhlserver",
+  "version": "1.0.0",
+  "description": "Fetch nhl scores",
+  "main": "index.js",
+  "dependencies": {
+    "superagent": "^5.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonStHilaire/nhlserver.git"
+  },
+  "keywords": [
+    "nhl"
+  ],
+  "author": "Simon St-Hilaire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonStHilaire/nhlserver/issues"
+  },
+  "homepage": "https://github.com/SimonStHilaire/nhlserver#readme"
+}
